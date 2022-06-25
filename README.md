@@ -1,1 +1,1 @@
-# rust
+# Rust Learning and Practicing Repository
